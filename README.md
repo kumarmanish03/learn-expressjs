@@ -22,14 +22,15 @@ $ git npm run dev
 
 Console must shows 
 
-'''javascript
-  Server running on PORT 5000...
- '''
+
+```shell
+Server running on PORT 5000...
+```
  
  ## Go to the browser and type
  
- '''javascript
+```shell
  http://localhost:5000/
- ''' 
+ ```
  
- ** Enjoy! Your app is running  :)
+# Enjoy! Your app is running  :) #
