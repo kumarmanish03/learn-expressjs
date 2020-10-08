@@ -11,7 +11,7 @@ $ git clone https://github.com/kumarmanish03/learn-expressjs.git
 ### Download Dependencies and Modules
 
 ```shell
-$ git npm init
+$ git npm install
 ```
 
 ### Run App
