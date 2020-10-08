@@ -11,13 +11,13 @@ $ git clone https://github.com/kumarmanish03/learn-expressjs.git
 ### Download Dependencies and Modules
 
 ```shell
-$ git npm install
+$ npm install
 ```
 
 ### Run App
 
 ```shell
-$ git npm run dev
+$ npm run dev
 ```
 
 Console must shows 
