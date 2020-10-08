@@ -1,0 +1,21 @@
+{
+  "name": "learning-express",
+  "version": "1.0.0",
+  "description": "learning express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "manish kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "moment": "^2.29.1",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
